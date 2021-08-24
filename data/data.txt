@@ -1,0 +1,9 @@
+What's your age ? 
+What's your gender ? (1 for male, 0 for female)
+Do you have hypertension (0 for no ,1 for yes)  ? 
+Do you have a heart disease ? (1 for yes,0 for no ) 
+What's your Residence_type ? (1 rural or 0 urban)
+What's your smoking Status (0 formerly smoked, 1 never smoked, 2 smokes , 3 unknown)
+What's your working type (0 for private, 1 for self-employed , 2 for Govt-job , 3 for working with children, 4 for never worked)
+What's your average glucose level ?
+What's your BMI ? 
